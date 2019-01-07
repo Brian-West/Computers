@@ -1,0 +1,88 @@
+High-quality Reconstruction of Plane-wave Imaging Using Generative Adversarial Network
+作者：Xi Zhang, Jing Liu, Qiong He, Heye Zhang, Jianwen Luo（清华大学医学院生物医学工程系，中国科学院深圳先进技术研究院）
+年份：2018
+出处：IUS（International Ultrasonics Symposium，IEEE）
+关键词：contrast, frame rate, generative adversarial network, lateral resolution, plane wave compounding
+
+
+High-Quality Plane Wave Compounding Using Convolutional Neural Networks
+作者：Maxime Gasse, Fabien Millioz, Emmanuel Roux, Damien Garcia, Hervé Liebgott, and Denis Friboulet
+年份：2017
+出处：IEEE TRANSACTIONS ON ULTRASONICS, FERROELECTRICS, AND FREQUENCY CONTROL
+关键词：Artificial neural networks, image reconstruction, ultrasonic imaging
+
+
+Image Super-Resolution Using Deep Convolutional Networks
+作者：Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang
+年份：2016
+出处：IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+关键词：Super-resolution, deep convolutional neural networks, sparse coding
+
+
+Learning a Deep Convolutional Network for Image Super-Resolution
+作者：Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang（香港中文大学信息工程系，微软研究院）
+年份：2014
+出处：European Conference on Computer Vision（CCF B类）
+关键词：Super-resolution, deep convolutional neural networks
+
+
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+作者：Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi（都来自推特）
+年份：2017
+出处：IEEE Conference on Computer Vision and Pattern Recognition（CCF A类）
+关键词：无
+
+
+（以下三篇概述性质的文章）
+Single-Image Super-Resolution: A Benchmark
+作者：Chih-Yuan Yang, Chao Ma, and Ming-Hsuan Yang（University of California at Merced, USA美国加州大学默塞德，上海交通大学）
+年份：2014
+出处：European Conference on Computer Vision（CCF B类）
+关键词：Single-image super-resolution, performance evaluation, metrics, Gaussian blur kernel width
+
+
+Super-resolution: a comprehensive survey
+作者：Kamal Nasrollahi · Thomas B. Moeslund
+年份：2014
+出处：Machine Vision and Applications（CCF C类）
+关键词：Super-resolution · Hallucination · Reconstruction · Regularization
+
+
+Super-Resolution Image Reconstruction: A Technical Overview
+作者：Sung Cheol Park, Min Kyu Park, and Moon Gi Kang
+年份：2003
+出处：IEEE Signal Processing Magazine
+关键词：无
+
+
+Image Super-Resolution Via Sparse Representation
+作者：Jianchao Yang, John Wright, Thomas S. Huang, and Yi Ma, Senior
+年份：2010
+出处：IEEE TRANSACTIONS ON IMAGE PROCESSING（CCF A类）
+关键词：Face hallucination, image super-resolution (SR), nonnegative matrix factorization, sparse coding, sparse representation
+
+
+基于双字典和稀疏表示的医学图像超分辨率重建
+作者：席志红， 曾继琴， 李 爽（哈尔滨工程大学 信息与通信工程系）
+年份：2017
+出处：计算机测量与控制（已不属于北大中文核心期刊，不是EI）
+关键词：医学图像； 超分辨率； 稀疏表示； 字典学习
+
+
+基于特征损失的医学图像超分辨率重建
+作者：邢晓羊，魏 敏，符 颖
+年份：2018
+出处：计算机工程与应用（不是EI）
+关键词：医学图像；超分辨重建；卷积神经网络；特征损失
+
+
+
+
+
+
+
+
+
+国内期刊收录
+https://wenku.baidu.com/view/31a9e4c7ff00bed5b8f31d4a.html
+https://blog.csdn.net/eisci2528265908/article/details/77774252
