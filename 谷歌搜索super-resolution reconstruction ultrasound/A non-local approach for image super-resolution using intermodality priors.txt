@@ -1,0 +1,10 @@
+其实也是基于重构的超分辨率重建
+
+第一个贡献：使用reference HR image来做SR。
+第二个贡献：引入非局部正则项，来帮助重建。
+实验上与插值方法进行对比。The two key points of the proposed approach, with respect to interpolation methods,
+are the use of an observation model (as in SR approaches) and the use of a reference HR image which drives the reconstruction
+process.
+需要一个评价框架来证明SR在医学图像处理pipelines是有用的，也需要除了PSNR和肉眼评估之外的评判标准来衡量SR的质量重建
+插值方法不需要配准（registration）因此用时少
+此法应该也可以用在超声成像

@@ -1,0 +1,5 @@
+This problem is inherently ill-posed since a multiplicity of solutions exist for any given low-resolution pixel. 
+In other words, it is an underdetermined inverse problem, of which solution is not unique. 
+Such a problem is typically mitigated（减轻，缓和） by constraining the solution space by strong prior information.
+
+稀疏编码属于external example-based策略的一种，就是利用image patch
